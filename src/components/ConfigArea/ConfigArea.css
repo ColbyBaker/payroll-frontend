@@ -1,0 +1,5 @@
+.ConfigArea {
+    width: 500px;
+    margin: 5px;
+    overflow: scroll;
+}
